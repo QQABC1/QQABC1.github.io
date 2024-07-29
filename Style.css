@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(42, 42, 207);
+    text-align: center; /* 文本居中 */
+    margin-top: 50px; /* 顶部外边距，使标题在页面中间 */
+}
+.custom-img {
+    width: 300px; /* 设置图片宽度 */
+    height: auto; /* 自动调整高度，保持原始宽高比 */
+}
